@@ -1,0 +1,6 @@
+noted:
+1. go is sensitive case language
+2. 'go mod ini module-name' to make module
+3. 'go build' to compile the code
+4. we can run without compile with 'go run filename.go'
+5. func or module can't use same name (duplicate), it can make error when we build/compile
